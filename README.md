@@ -12,5 +12,4 @@ AWS Cloud for Web App Setup
 8. Download artifact to Tomcat Instance
 9. Setup ELB with HTTP[Cert From Amazon Certificate Manager]
 
-
-
+## The project is expalined in the below video 
