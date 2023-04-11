@@ -1,4 +1,4 @@
-# Devops-Project-2
+# AWS Cloud for Web App Setup [Lift & Shift]
 AWS Cloud for Web App Setup
 
 ## Flow of Execution
